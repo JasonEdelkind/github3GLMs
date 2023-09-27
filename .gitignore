@@ -1,6 +1,11 @@
 # History files
 .Rhistory
 .Rapp.history
+images/
+github3GLMs.Rproj
+github3.Rmd
+data/
+github3.html
 
 # Session Data files
 .RData
